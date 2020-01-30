@@ -1,0 +1,38 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.fazle.com" resolutions="1x" timestamp="1580397009496">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="123661120" ref="about:contact:public:index:personal"/>
+    <file name="about.css" crc="406108504" ref="about"/>
+    <file name="contact.css" crc="4162747622" ref="contact"/>
+    <file name="public.css" crc="4165223417" ref="public"/>
+    <file name="index.css" crc="95479872" ref="index"/>
+    <file name="personal.css" crc="4165223417" ref="personal"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:personal:public"/>
+    <file name="museutils.js" crc="163421577" ref="index:about:contact:personal:public"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:personal:public"/>
+    <file name="museconfig.js" crc="36584860" ref="index:about:contact:personal:public"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about:contact:personal:public"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:contact"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about:contact:personal:public"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact:personal:public"/>
+    <file name="require.js" crc="244322403" ref="index:about:contact:personal:public"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="off.png" crc="4137614313" ref="index"/>
+    <file name="unavailable.png" crc="4136258698" ref="index"/>
+    <file name="off_rollover.png" crc="125515327" ref="index"/>
+    <file name="off_mousedown.png" crc="4137614313" ref="index"/>
+    <file name="on-u217-on-fr.png" crc="3857947631" ref="index"/>
+    <file name="on_rollover-u217-on-r-fr.png" crc="4119381415" ref="index"/>
+    <file name="on_mousedown-u217-on-m-fr.png" crc="3857947631" ref="index"/>
+    <file name="dsc_0201.jpg" crc="17195691" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="3958310936" seo="true" mt="1580390325543" redirect="true"/>
+  <file name="about.html" crc="526077516" seo="true" mt="1580390325543" redirect="true"/>
+  <file name="contact.html" crc="492011234" seo="true" mt="1580390325543" redirect="true"/>
+  <file name="personal.html" crc="4161694945" seo="true" mt="1580390325543" redirect="true"/>
+  <file name="public.html" crc="3808175635" seo="true" mt="1580390325543" redirect="true"/>
+</manifest>
